@@ -19,8 +19,8 @@ This project involves the development and deployment of a Telegram chatbot lever
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/meenakshiiyer2531/BF_BOT
-   cd telegram-chatbot
+   git clone https://github.com/meenakshiiyer2531/ConvoBuddy
+   cd ConvoBuddy
    ```
 
 2. Install dependencies:
